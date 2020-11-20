@@ -1,1 +1,2 @@
 # zorane
+nojentak
